@@ -77,10 +77,10 @@ section.card.hover{
   transform: scale(0.95s);
 }
 section.card img{
-  width:100px;
-  height:100px;
+  width:80px;
+  height:80px;
   object-fit:cover;
-  border-radius:50%;
+  border-radius:4%;
   margin:20px;
   border:1px solid blue ;
 }
